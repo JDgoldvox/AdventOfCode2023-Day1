@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Trebuchet",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Trebuchet-Part1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Trebuchet-Part1-Release-12c163a340f2818bd9de.json",
+					"name" : "Trebuchet-Part1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Trebuchet-Part2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Trebuchet-Part2-Release-82050801c75e1fc5b2ff.json",
+					"name" : "Trebuchet-Part2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/voxca/Documents/uni work/AdventOfCode/Day 1/Trebuchet/out/build/x64-release",
+		"source" : "C:/Users/voxca/Documents/uni work/AdventOfCode/Day 1/Trebuchet"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
